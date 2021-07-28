@@ -1,4 +1,4 @@
-<img src="https://blog.jianping.fun/github_project_picture/profile.png" height=100px>
+<img src="https://blog.jianping.fun/github_project_picture/profile.png" height="100px" width="100%">
 
 ### 👋 Hi there！I'm iveBoy
 
