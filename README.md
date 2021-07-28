@@ -5,8 +5,9 @@
 ![iveBoy's github stats](https://github-readme-stats.vercel.app/api?username=ShenJianPing0307&show_icons=true&theme=radical&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenJianPing0307&layout=compact&theme=cobalt)](https://github.com/ShenJianPing0307/yw_crm.git)
 -->
 <a href="https://github.com/ShenJianPing0307">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShenJianPing0307&show_icons=true&theme=radical&hide=contribs" height="178px" width="60%" />
-  </a> <a href="https://github.com/ShenJianPing0307">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShenJianPing0307&show_icons=true&theme=radical&hide=contribs" height="178px"  />
+  </a> 
+<a href="https://github.com/ShenJianPing0307">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenJianPing0307&layout=compact&theme=cobalt" height="178px" />
   </a>
 <!--
