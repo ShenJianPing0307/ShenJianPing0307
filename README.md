@@ -1,4 +1,5 @@
-<img src="https://blog.jianping.fun/github_project_picture/profile.png" style="height:100px">
+<img src="https://blog.jianping.fun/github_project_picture/profile.png" height=100px>
+
 ### 👋 Hi there！I'm iveBoy
 
 ![iveBoy's github stats](https://github-readme-stats.vercel.app/api?username=ShenJianPing0307&show_icons=true&theme=radical&hide=contribs)  &nbsp;&nbsp;&nbsp;&nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenJianPing0307&layout=compact&theme=radical)](https://github.com/ShenJianPing0307/yw_crm.git)
